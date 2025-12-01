@@ -2,7 +2,7 @@
 
 ### 🚀 Embedded Systems Engineer & IoT Developer
 
-I am a **Master of Excellence student in Computer Engineering and Embedded Systems (IISE)** based in Agadir, Morocco.
+I am a **Master student in Computer Engineering and Embedded Systems (IISE)** based in Agadir, Morocco.
 
 I specialize in **Embedded Systems** and **IoT**, with a passion for bringing intelligence to edge devices. My work focuses on designing efficient hardware solutions, optimizing sensor networks, and developing real-time control systems for industrial applications.
 
